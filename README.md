@@ -44,3 +44,10 @@ pip install -r requirements.txt
 or
 
 Download cheat in releases
+
+## 🐛 Troubleshooting
+-Scope doesn't appear
+
+Check if overlay is disabled by antivirus
+
+Verify game runs in windowed or borderless mode
